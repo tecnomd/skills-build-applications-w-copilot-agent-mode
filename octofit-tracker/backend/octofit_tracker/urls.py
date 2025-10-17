@@ -22,7 +22,7 @@ from rest_framework.response import Response
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-*** End Patch
+]
 
 # API Router
 router = routers.DefaultRouter()
